@@ -1,4 +1,4 @@
-# codename projectfoodweaver on Blockchain
+# Codename ProjectFoodWeaver on Blockchain
 The project am coming up with will be dealing with food security, because of insecurity
 in the government offices and parastatals.
 by using blockchain,it will reduce food wastage and avoid corrupt  and greedy gov't officials
